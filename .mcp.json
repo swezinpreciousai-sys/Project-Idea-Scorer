@@ -1,0 +1,4 @@
+{
+  "mcpServers": {},
+  "comment": "GSD is active at the global hooks level (~/.claude/settings.json). No MCP server needed — task breakdown, guards, and context monitoring work automatically."
+}
