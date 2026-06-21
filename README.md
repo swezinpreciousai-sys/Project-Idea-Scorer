@@ -1,4 +1,4 @@
-# AI Project Idea Scorer
+# 💡🎯 Project Idea Scorer
 
 A free web tool to score and evaluate your AI project idea before you build it. Enter your idea, rate it across 5 key criteria, and get an instant score with actionable recommendations.
 
