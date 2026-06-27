@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+.planning/
 /.pnp
 .pnp.*
 .yarn/*
